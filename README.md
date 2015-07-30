@@ -15,6 +15,7 @@ In your web page:
 
 ```html
 <script src="dist/css/just-alert.min.css"></script>
+<script src="http://cdn.bootcss.com/zepto/1.0rc1/zepto.min.js"></script>
 <script src="dist/just-alert.min.js"></script>
 <script>
 //do what you what
